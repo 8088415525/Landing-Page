@@ -32,7 +32,7 @@ nav {
 }
 
 .nav__logo a {
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: 500;
   color: var(--primary-color);
   text-decoration: none;
@@ -87,7 +87,7 @@ nav {
 }
 
 .content__container h1 {
-  font-size: 3rem;
+  font-size: 2.8rem;
   font-weight: 400;
   line-height: 3.5rem;
   color: var(--primary-color-dark);
@@ -106,7 +106,7 @@ nav {
 }
 
 .content__container p {
-  font-size: 1.6rem;
+  font-size: 1.2rem;
   color: var(--text-color);
   margin-bottom: 2rem;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -130,7 +130,7 @@ nav {
 .content__container button {
   width: fit-content;
   padding: 1rem;
-  font-size: 1.2rem;
+  font-size: 1rem;
   white-space: nowrap;
   background-color: var(--primary-color);
   color: var(--white);
